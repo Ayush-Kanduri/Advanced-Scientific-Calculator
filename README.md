@@ -16,11 +16,6 @@ This is a Scientific Calculator. This is an updated version of the Simple UI Cal
 * Runtime Environment: None
 * Integrated Development Environment: VSCode
 
-#
-> #### Checkout the Website [Web Application](https://ui-scientific-calculator-app.herokuapp.com/)
-> #### Checkout the Application Demo Video [YouTube](https://youtu.be/NmtTHyBzUgs)
-#
-
 ## Screens
 <p align="left">
 <img height="400" width="400" src="https://user-images.githubusercontent.com/76626529/149655798-2fafd6c3-d7e4-4c07-8d83-de7c457310df.png">
