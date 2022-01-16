@@ -23,7 +23,7 @@ This is a Scientific Calculator. This is an updated version of the Simple UI Cal
 
 ## Screens
 <p align="left">
-<img height="400" width="400" src="https://user-images.githubusercontent.com/76626529/149650034-0eba4b5e-f5b1-4acf-ac72-1424fa0a7b81.png">
+<img height="400" width="400" src="https://user-images.githubusercontent.com/76626529/149655798-2fafd6c3-d7e4-4c07-8d83-de7c457310df.png">
 </p>
 
 ## Follow me on:
