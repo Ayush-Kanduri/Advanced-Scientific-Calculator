@@ -14,7 +14,7 @@ body {
 	margin: auto;
 	border-radius: 20px;
 	width: 40%;
-	min-width: 300px;
+	min-width: 550px;
 	max-height: 493px;
 	display: flex;
 	flex-direction: column;
@@ -88,4 +88,17 @@ p {
 p::-webkit-scrollbar {
 	overflow: hidden;
 	display: none;
+}
+
+@media screen and (max-width: 560px) {
+	#calculator {
+		min-width: 300px;
+	}
+	button {
+		font-size: 0.7rem !important;
+		width: 17%;
+	}
+	.super {
+		font-size: 0.7rem !important;
+	}
 }
